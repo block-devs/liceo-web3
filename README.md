@@ -1,15 +1,8 @@
 # Title Certificate JSON Branch
 
-# Sample Hardhat Project
+This branch serves to change and implement the title certificate JSON file, required to complete the project.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+The team working on this branch should be:
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+- MoshFan64
+- 7sev7nsev7n7
