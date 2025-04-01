@@ -6,5 +6,3 @@ The team working on this branch should be:
 
 - MoshFan64
 - 7sev7nsev7n7
-
-Nuevo cambio por Yuri.
